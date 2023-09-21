@@ -21,3 +21,7 @@ Run with:
 LOAD"KELLERABEND",8,1
 
 RUN
+
+## Discussion
+
+All discussion takes place in Discord!
