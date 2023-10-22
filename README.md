@@ -15,7 +15,7 @@ Feel free to ask questions or make suggestions. I know there are a lot of typos 
 ## Installation
 
 
-Simply download the .prg file and load in VICE. 
+Simply download the .d64 file and open in VICE. 
 Run with:
 
 LOAD"KELLERABEND",8,1
